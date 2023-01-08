@@ -8,13 +8,13 @@ export default [
     },
     institution: {
       name: "Kabarak High School",
-      position: "President",
+      position: "C.E.O",
     },
   },
   {
     key: 2,
     person: {
-      name: "Morris",
+      name: "Kevin",
       id: 32552626,
       bloodtype: "O-",
     },
